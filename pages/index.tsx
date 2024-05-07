@@ -29,7 +29,7 @@ const Home = () => {
               <p>
                 We are Obaforex.
                 <br />
-                The leading global Investment / Trading Company.
+                The leading global Trading Company.
               </p>
             </div>
 
