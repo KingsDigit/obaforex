@@ -14,7 +14,7 @@ export const Copy = ({ bgColor }: prop) => {
             <h3 className="bold">
               We Are One Of The World’s Most Trusted Forex Copier.
             </h3>
-            <p>Join Us and Copy the Trades of The King of trading himself</p>
+            <p>Join Us and Copy the Trades of the King of trading himself</p>
           </div>
           <div className="col-md-2 col-12 text-right center-holder-xs mt-10">
             <a href="#" className="button-md button-primary">
