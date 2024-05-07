@@ -99,7 +99,7 @@ const Contact = () => {
                       </p>
                       <p>
                         Signal Department :{" "}
-                        <strong className="prop">+234 809 898 9862</strong>
+                        <strong className="prop">+234 904 343 0808</strong>
                       </p>
                     </div>
                   </div>
