@@ -84,21 +84,21 @@ export const Footer = () => {
                     </strong>
                   </li>
                   <li>
-                    <span>Obaforex : ( MON - SUN )</span>
+                    <span>Trading Hours : ( MON - FRI )</span>
                     <strong>
-                      <i className="fa fa-clock"></i> 8AM - 12AM
+                      <i className="fa fa-clock"></i> 8AM - 10PM
                     </strong>
                   </li>
                   <li>
                     <span>Online Chat : ( MON - SAT )</span>
                     <strong>
-                      <i className="fa fa-clock"></i> 8AM - 12AM
+                      <i className="fa fa-clock"></i> 8AM - 6AM
                     </strong>
                   </li>
                   <li>
-                    <span>Online Chat : ( SUN )</span>
+                    <span>Office Hours : ( MON - FRI )</span>
                     <strong>
-                      <i className="fa fa-clock"></i> 12PM - 12AM
+                      <i className="fa fa-clock"></i> 8PM - 4PM
                     </strong>
                   </li>
                 </ul>
@@ -143,7 +143,7 @@ export const Footer = () => {
                 <div className="col-xs-12 col-lg-6 my-3">
                   <p>
                     © Copyright 2021{" "}
-                    <span className="text-off-white">OBAFOREX LTD,</span> All
+                    <span className="text-off-white">OBAFOREX</span> All
                     rights reserved.{" "}
                     <span style={{ color: "#999" }}>developed by</span>{" "}
                     <a href="http://looptrace.com" style={{ color: "#1652f0" }}>
