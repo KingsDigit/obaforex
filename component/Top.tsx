@@ -19,7 +19,7 @@ export const Top = () => {
               <ul className="top-bar-info">
                 <li>
                   <i className="fas fa-clock"></i>Open Hours: Mon - Fri, 8:00AM
-                  - 6:00PM
+                  - 4:00PM
                 </li>
                 <li>
                   <i className="fas fa-phone"></i> Phone: +2349043430808,
